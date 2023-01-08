@@ -1,13 +1,4 @@
-# Hardhat Project on A customized ERC-20 Token
+# A customized ERC-20 Token
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+- Smart Contracts and Hardhat Test for customized ERC-20 token PRIME and PUSD
+- A Vaults that takes in PRIME and and accrues interest in PUSD over time at 1% APY.(included tests) 
